@@ -5,7 +5,7 @@
 let A = parseInt(gets());
 let B = parseInt(gets());
 
-//To Do: Complete os espaços em brano com uma  possível solução para o desafio
+//To Do: Complete os espaços em branco com uma  possível solução para o desafio
 
 let SOMA =            
 print("SOMA = "+ SOMA  );
